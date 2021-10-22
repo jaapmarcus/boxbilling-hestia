@@ -34,5 +34,5 @@ Hestia.php must be placed on ../bb-library/Server/Manager/
 
 If you are going to use this module please consider donating to HestiaCP
 
-[![paypal](HestiaCP Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ST87LQH2CHGLA)
+(HestiaCP Paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ST87LQH2CHGLA)
 
