@@ -44,7 +44,7 @@ class Server_Manager_Hestia extends Server_Manager
     public static function getForm()
     {
         return array(
-            'label'     =>  'Hestia Server Manager V1',
+            'label'     =>  'HestiaCP',
         );
     }
     /**
