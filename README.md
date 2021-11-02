@@ -36,3 +36,6 @@ If you are going to use this module please consider donating to HestiaCP
 
 [HestiaCP Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ST87LQH2CHGLA)
 
+## Notes
+
+Changes has been made by the VestaCP Api. So it has not been tested on it!
