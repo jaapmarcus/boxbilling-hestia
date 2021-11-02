@@ -157,7 +157,7 @@ class Server_Manager_Hestia extends Server_Manager
      */
     public function create_tmp_file($password)
     {
-        $vst_command = 'v-add-user';
+        $vst_command = 'v-make-tmp-file';
         $vst_returncode = 'yes';
         $postvars = array(
             'returncode' => $vst_returncode,
