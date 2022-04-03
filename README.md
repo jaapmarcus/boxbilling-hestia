@@ -1,3 +1,10 @@
+# Please use the build in version inside Boxbilling instead.
+
+https://github.com/boxbilling/boxbilling/blob/master/src/bb-library/Server/Manager/Hestia.php
+
+Or wait until it has been released...
+
+
 # Boxbilling Hestia Module
 
 Boxbilling Modules by Estratos edited and updated by Pctec2012 and modified by Jaapmarcus for HestiaCP  also updated Vesta version to support API keys
